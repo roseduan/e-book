@@ -1,9 +1,4 @@
 # e-book
-大家都知道，关于技术的书籍，太多了，况且技术更新快，没必要每次学习新技术都要买本书。而且有些比较经典的大部头书籍，都比较的贵，所以，看看电子书来获取知识是一种很不错的方式。
-
-分享电子书的网站其实很多，项目也不少，但是有的吧，质量堪忧，并不能满足技术人对完美的追求。这里分享的书籍都是比较高质量的，因为我会做一下筛选，并不是什么书都往这里放，大家各取所需。
-
-看到了啥好书就更新吧，截至目前，已有的书籍：
 
 **1. Go**
 
@@ -87,16 +82,3 @@
 …………
 
 ***
-
-能关注到这里来的，一定是喜欢看书的人，并且希望通过阅读来增长自己的知识，这是非常有效的方式，希望能你可以坚持下去，希望我们可以在提升自己这条道路上坚持下去！
-
-我喜欢看书，也喜欢写点东西，除了 Github ，你可以在其他渠道找到我：
-
-* SegementFault：[roseduan](https://segmentfault.com/u/roseduan) 
-* CSDN：[roseduan](https://blog.csdn.net/rose_duanm) 
-* 知乎： [roseduan](https://www.zhihu.com/people/roseduan/activities)
-* 公众号：roseduan
-
-欢迎扫码关注！
-
-![](https://roseduan.github.io/images/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
